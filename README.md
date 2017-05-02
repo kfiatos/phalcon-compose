@@ -15,8 +15,6 @@ production environments.
 
 ## Documentation
 
-Branch to be used is dev
-
 The current version can be seen at [phalcon-compose.readme.io][:compose:].
 
 ## License
